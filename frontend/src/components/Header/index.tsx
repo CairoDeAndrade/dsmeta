@@ -1,5 +1,5 @@
-import "./styles.css"
-import logo from "../../assets/img/logo.svg"
+import "./styles.css";
+import logo from "../../assets/img/logo.svg";
 
 function Header() {
     return (
@@ -9,7 +9,7 @@ function Header() {
                     <img src={logo} alt="DSMeta" />
                     <h1>DSMeta</h1>
                     <p>
-                        Developed by
+                        Developed by;
                         <a href="https://www.linkedin.com/feed/"> Cairo Augusto de Andrade</a>
                     </p>
                 </div>
@@ -18,4 +18,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
