@@ -8,6 +8,6 @@ Realização do envio de SMS: foi usado o Twilio.
 Subir a API na nuvem: foi utilizado o Heroku.
 Testar requisições: foi usado o Postman.
 
-Link do site: https://lnkd.in/dKsPnNu6
+Link do site: https://dsmeta-cairo.netlify.app/
 
 OBS: A princípio o site ficará disponível até dia 28/11/2022
