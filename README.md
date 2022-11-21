@@ -8,9 +8,6 @@ Realização do envio de SMS: foi usado o Twilio.
 Subir a API na nuvem: foi utilizado o Heroku.
 Testar requisições: foi usado o Postman.
 
-Link do repositório no GitHub: https://lnkd.in/d_7B72H8
-
-
 Link do site: https://lnkd.in/dKsPnNu6
 
 OBS: A princípio o site ficará disponível até dia 28/11/2022
