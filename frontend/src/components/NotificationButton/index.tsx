@@ -2,6 +2,7 @@ import icon from '../../assets/img/notification-icon.svg';
 import './styles.css';
 import axios from 'axios';
 import { BASE_URL } from '../../utils/request';
+import { toast } from 'react-toastify';
 
 type Props = {
     saleID: number;
@@ -10,7 +11,7 @@ type Props = {
 function hadleClick (id : number) {
     axios(`${BASE_URL}/sales/${id}/notification`).then(
         response => {
-            console.log("SUCESS");
+            toast.info("SMS sent successfully!");
         }
     );
 }
