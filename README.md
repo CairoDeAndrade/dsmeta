@@ -11,3 +11,8 @@ Este é  um projeto de uma aplicação Web completa junto ao DevSuperior com o p
 Link do site: https://dsmeta-cairo.netlify.app/
 
 OBS: A princípio o site ficará disponível até dia 28/11/2022
+
+<p align="center">
+  <br>
+  <img src="https://github.com/CairoDeAndrade/sales-website/blob/main/frontend/src/assets/img/sales-web.png" width="700" margin="10rem" title="web frontend img">
+</p>
