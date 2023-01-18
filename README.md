@@ -1,5 +1,5 @@
 # Sales Website
-Este é  um projeto de uma aplicação Web completa junto ao DevSuperior com o professor Nelio Alves. O site consiste em apresentar um card com vendedores e seus dados de venda de forma dinâmica, e ranqueá-los de forma decescente, em valor de vendas, e com a possibilidade de enviar um SMS ao vendedor notificando-o.
+Este é  um projeto de uma aplicação Web completa junto ao DevSuperior com o professor Nelio Alves. O site consiste em apresentar um card com vendedores e seus dados de venda de forma dinâmica, e ranqueá-los de forma decescente, em valor de vendas, e com a possibilidade de enviar um SMS ao vendedor notificando-o dos valores de vendas alcançados na data selecionada.
 
 # Tecnologias
 - Frontend: foi usado React JS juntamente com Typescript.
