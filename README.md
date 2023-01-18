@@ -11,7 +11,7 @@ Este é  um projeto de uma aplicação Web completa junto ao DevSuperior com o p
 
 Link do site: https://dsmeta-cairo.netlify.app/
 
-OBS: A princípio o site ficará disponível até dia 28/11/2022 (devido às alterações no Heroku)
+OBS: A princípio o site ficará disponível até dia 28/11/2022 (devido às alterações nos planos do Heroku)
 
 <p align="center">
   <br>
