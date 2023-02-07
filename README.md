@@ -33,7 +33,7 @@ OBS: A princípio o site funcionará corretamente somente até o dia 28/11/2022 
 Pré-requisitos: 
 - Você possui a versão mais recente ou a partir da oitava do <code>Java</code>
 - Você instalou a versão mais recente de <code><Maven / Spring-Boot></code>
-- Você tem uma máquina <code><Windows / Linux></code>
+- Você tem instalado a versão mais atual do Git
 
 ### No terminal Git Bash
 - Clonar repositório:
