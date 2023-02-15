@@ -16,7 +16,8 @@ OBS: A princípio o site funcionará corretamente somente até o dia 28/11/2022 
 - JPA / Hibernate
 
 ## Frontend:
-- HTML / CSS / JS / TypeScript
+- HTML / CSS
+- TypeScript
 - ReactJS
 
 ## Implantação em produção
